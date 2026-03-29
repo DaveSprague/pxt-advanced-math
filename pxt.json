@@ -1,0 +1,17 @@
+{
+        "name": "pxt-advanced-math",
+        "version": "0.1.0",
+        "description": "Advanced Math and Data Science tools. Adds natural log (logn), log10, exp, and 'NumPy' style list operations like map and constrain for arrays. Keywords: log, natural log, logarithm, ln, mean, average, map, list, median, std dev.",
+        "license": "MIT",
+        "dependencies": {
+            "core": "*"
+        },
+        "files": [
+            "main.ts",
+            "README.md"
+        ],
+        "testFiles": [
+            "test.ts"
+        ],
+        "public": true
+    }
